@@ -1,6 +1,12 @@
 # go-websocket-client
 go-websocket-client
 
+## 依赖安装
+
+```
+go get github.com/gorilla/websocket
+```
+
 ## 使用命令：
 
 ```

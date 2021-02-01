@@ -15,3 +15,9 @@ go get github.com/gorilla/websocket
 
 x 是构造的请求大小
 不填默认大小是10个字节
+
+## 后续功能
+
+欢迎提交issue
+
+或者联系作者y0usali
